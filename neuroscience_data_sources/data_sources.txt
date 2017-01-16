@@ -4,19 +4,19 @@ Neuroscience Data Sources
 2. https://senselab.med.yale.edu/neurondb/
 3. http://schizconnect.org/
 4. http://celltypes.brain-map.org/
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+5. http://brancusi.usc.edu/
+6. http://brainmaps.org/
+7. http://ccdb.ucsd.edu/CCDBWebSite/index.html
+8. http://www.cdtdb.brain.riken.jp/CDT/Top.jsp
+9.http://www.cerebellum.org/
+10.http://connectomes.org/
+11.http://neurodatabase.org/
+12.http://crcns.org/
+13.http://yogo.msu.montana.edu/applications/cercaldb.html
+14.http://doqcs.ncbs.res.in/
+15.http://neuron.duke.edu/cells/cellArchive.html
+16.http://eegdatabase.kiv.zcu.cz/home-page;jsessionid=zecur19tk2ok?0
+17.http://flybrain.neurobio.arizona.edu/
+18.http://gara.bio.uci.edu/
+19.http://hipposeq.janelia.org/
+20.http://krasnow1.gmu.edu/L-Neuron/L-Neuron/home.htm
