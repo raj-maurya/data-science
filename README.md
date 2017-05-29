@@ -9,3 +9,6 @@
 # Kaggle
  - [ Tutorial ] https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning#gs.NIrwfbc
  - https://www.kaggle.com/rajkmaurya111
+ 
+## New to Kaggle [Follow this ]
+-    https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/
